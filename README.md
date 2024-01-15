@@ -1,1 +1,1 @@
-#QR Generator using Python#
+QR Generator using Python
